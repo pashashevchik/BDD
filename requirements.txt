@@ -1,0 +1,8 @@
+pip==22.3
+pytest-bdd==6.0.1
+pytest==7.2.0
+python-dotenv==0.21.0
+selenium==4.5.0
+setuptools==65.5.0
+sttable==0.0.1
+webdriver-manager==3.8.4
